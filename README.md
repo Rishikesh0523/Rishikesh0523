@@ -10,6 +10,8 @@
 - 🌱 My Programming Language's *JavaScript, C, C++, Python, Fortran, ...*
 - 📫 My Skills *HTML/CSS/Javascript, Php, Figma/Illustrator, Adobe Packages, ...*
 
+- 💻 I am from Alpha Batch of Product Engineer Bootcamp #c2edev #productengineerbootcamp #nepal
+
 - 👯 I’m also on [OSRI](https://osri.jsdhami.com.np)
 
 - 👨‍💻 All of my projects are available at [Projects](https://rishikeshpaudel.com.np/#portfolio)
