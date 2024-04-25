@@ -10,8 +10,6 @@
 - 🌱 My Programming Language's *JavaScript, C, C++, Python, Fortran, ...*
 - 📫 My Skills *HTML/CSS/Javascript, Python, C, C++, Figma/Illustrator, Adobe Packages, ...*
 
-- 👯 I’m also on [OSRI](https://osri.jsdhami.com.np)
-
 - 👨‍💻 All of my projects are available at [Projects](https://rishikeshpaudel.com.np/#portfolio)
 
 - 📫 How to reach me [Contact](https://rishikeshpaudel.com.np/#contact)
